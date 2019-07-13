@@ -25,6 +25,11 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+	.ghost {
+	  visibility: hidden;
+	}
+	.c {
+text-align: center;	}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -1656,7 +1661,11 @@ input, select, textarea {
 						}
 
 		}
-
+@@media ghost {
+	.ghost {
+	  visibility: hidden;
+	}
+}
 		@media screen and (max-width: 736px) {
 
 			.row {
