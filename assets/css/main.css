@@ -770,6 +770,12 @@ input, select, textarea {
 			margin-left: 41.66667%;
 		}
 
+		.officer {
+			width: 100%;
+			text-align: left;
+			padding: 10px;
+		}
+
 		.row > .col-6 {
 			width: 50%;
 		}
