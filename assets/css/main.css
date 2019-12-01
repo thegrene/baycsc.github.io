@@ -774,6 +774,12 @@ input, select, textarea {
 			width: 80%;
 			text-align: left;
 			padding: 10px;
+			float: right;
+		}
+
+		.officerimage {
+			padding: 10px;
+			float: left;
 		}
 
 		.row > .col-6 {
