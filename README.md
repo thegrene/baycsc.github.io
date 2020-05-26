@@ -29,3 +29,6 @@
 
 ## Visit our Website
 Visit our website at baycsc.org! We look forward to meeting you!
+
+## Usage Information
+All of our licensing information has been detailed in our license. Any form of usage which may entail any sort of harm is of no ties with BAYCSC.
