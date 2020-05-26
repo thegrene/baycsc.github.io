@@ -15,3 +15,8 @@
 [license-url]: https://github.com/baycsc/baycsc.github.io/blob/master/LICENSE.txt
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/baycsc/baycsc.github.io/stargazers
+
+##Acknowledgements:
+*[README.md Template] (https://github.com/othneildrew/Best-README-Template/edit/master/README.md)
+*[Github Pages] (pages.github.com)
+*[Zachary George]
