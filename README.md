@@ -25,3 +25,6 @@
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 * [Zachary George]
+
+## Visit our Website
+Visit our website at baycsc.org! We look forward to meeting you!
