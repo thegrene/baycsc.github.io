@@ -32,3 +32,8 @@ Visit our website at baycsc.org! We look forward to meeting you!
 
 ## Usage Information
 All of our licensing information has been detailed in our license. Any form of usage which may entail any sort of harm is of no ties with BAYCSC. Our organization is not responsible for any cleanup of open issues not opened by the general public.
+
+## Submitting Issues
+* Please see how to [submit an issue on Github](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
+* After this, please check whether or not that issue has been fixed in post or check if this issue is something you can solve without a specific issue
+* If absolutely nothing else, please submit an issue as is detailed above.
