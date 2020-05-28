@@ -1,4 +1,8 @@
-# baycsc.github.io
+# BAYCSC Website
+# Bay Area Youth Computer Science Council
+
+![BAYCSC Logo](https://raw.githubusercontent.com/baycsc/baycsc.github.io/master/images/image01.jpg)
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -36,4 +40,4 @@ All of our licensing information has been detailed in our license. Any form of u
 ## Submitting Issues
 * Please see how to [submit an issue on Github](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
 * After this, please check whether or not that issue has been fixed in post or check if this issue is something you can solve without a specific issue
-* If absolutely nothing else, please submit an issue as is detailed above.
+* If **absolutely** nothing else, please submit an issue as is detailed above.
