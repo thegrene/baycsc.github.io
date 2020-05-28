@@ -1,7 +1,5 @@
 # BAYCSC Website
-# Bay Area Youth Computer Science Council
-
-![BAYCSC Logo](https://raw.githubusercontent.com/baycsc/baycsc.github.io/master/images/image01.jpg)
+## Bay Area Youth Computer Science Council
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
