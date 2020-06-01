@@ -39,3 +39,7 @@ All of our licensing information has been detailed in our license. Any form of u
 * Please see how to [submit an issue on Github](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
 * After this, please check whether or not that issue has been fixed in post or check if this issue is something you can solve without a specific issue
 * If **absolutely** nothing else, please submit an issue as is detailed above.
+
+## Working on the Site
+* If you would like to work on the site, please make sure to check ou the Projects Page to make sure you know what we're regarding as far as goals.
+* Make sure to create your own branch if editing or submit an issue request if you are not confident in your change.
