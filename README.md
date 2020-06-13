@@ -41,5 +41,5 @@ All of our licensing information has been detailed in our license. Any form of u
 * If **absolutely** nothing else, please submit an issue as is detailed above.
 
 ## Working on the Site
-* If you would like to work on the site, please make sure to check ou the Projects Page to make sure you know what we're regarding as far as goals.
+* If you would like to work on the site, please make sure to check out the Projects Page to make sure you know what we're regarding as far as goals.
 * Make sure to create your own branch if editing or submit an issue request if you are not confident in your change.
