@@ -34,6 +34,22 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.bl {
+	background-color: #e44c65;
+	text-align: center;
+	padding: 8px;
+	border-radius: 8px;
+	transition: 500ms ease;
+}
+
+.bl:hover {
+	background-color: #e76278;
+}
+
+.bl >  h5 {
+	margin: 0;
+}
+
 body {
 	line-height: 1;
 }
