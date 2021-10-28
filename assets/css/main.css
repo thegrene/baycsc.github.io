@@ -2191,6 +2191,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section.special, article.special {
+		text-align: left;
 	}
 
 	header p {
