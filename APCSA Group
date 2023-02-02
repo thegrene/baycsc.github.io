@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>Bay Area Youth Computer Science Council</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload landing">
+<div id="page-wrapper">
+    <header id="header">
+        <h1 id="logo"><a href="index.html"><img src="images/LogoMain.jpg" alt="Avatar" style="width:70px;height:60px;border-radius:10px;margin-top:15px;"/></a></h1>
+        <nav id="nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Members.html">About Us</a></li>
+                <li><a href="Events.html">Events</a> </li>
+                <li><a href="Partnerships.html">Partnerships</a></li>
+                <li><a href="JoiningPage.html">Why Should You Join?</a></li>
+                <li><a href="https://forms.gle/2yxTnL3uTEnCJhodA" class="button primary">Join Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="main" class="wrapper style1">
+        <div class="container">
+            <header class="major">
+                <h2>The BAYCSC APCSA Study Group</h2>
+            </header>
+            <center><p>For the first time in BAYCSC's history, we're branching out and offering a free, bi-weekly study group for all things APCSA.</p></center>
+            <br/>
+            <center><h3>Discord Link:</h3></center>
+            <ul style="list-style: none;">
+            <li><center><p>Join <a href="https://discord.gg/gF4APNYtJu">Here!</a></p></center></li>
+            </ul>
+
+                <footer id="footer">
+                <ul class="icons">
+                    <li><a href="https://twitter.com/BayCsc" target="_blank" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="https://www.facebook.com/baycscouncil" target="_blank" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+                    <li><a href="https://www.instagram.com/bay.csc/" target="_blank" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+                    <li><a href="mailto:baycscouncil@gmail.com" target="_blank" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+                </ul>
+                <ul class="copyright">
+                    <li>&copy; BAYCSC</li> <li><a href="https://github.com/baycsc/baycsc.github.io"><img src="images/GithubLogo.png" alt="Avatar" height="30" width="30"/></a></li>
+                </ul>
+            </footer>
+        </div>
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/jquery.dropotron.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+</body>
+</html>
