@@ -2,7 +2,8 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
 /*
-	Landed by HTML5 UP	html5up.net | @ajlkn
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
@@ -17,38 +18,16 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	/*margin: 0:*/
+	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	/*vertical-align: baseline;*/
-}
+	vertical-align: baseline;}
 
-	.ghost {
-	  visibility: hidden;
-	}
-	.c {
-text-align: left;	}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-
-.bl {
-	background-color: #e44c65;
-	text-align: center;
-	padding: 8px;
-	border-radius: 8px;
-	transition: 500ms ease;
-}
-
-.bl:hover {
-	background-color: #e76278;
-}
-
-.bl >  h5 {
-	margin: 0;
-}
 
 body {
 	line-height: 1;
@@ -65,7 +44,6 @@ blockquote, q {
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
 		content: none;
-		float: left;
 	}
 
 table {
@@ -245,9 +223,6 @@ input, select, textarea {
 			overflow-x: auto;
 		}
 
-	.center{
-		margin: 0 auto;
-	}
 	.align-left {
 		text-align: left;
 	}
@@ -787,18 +762,6 @@ input, select, textarea {
 
 		.row > .off-5 {
 			margin-left: 41.66667%;
-		}
-
-		.officer {
-			width: 80%;
-			text-align: left;
-			padding: 10px;
-			float: right;
-		}
-
-		.officerimage {
-			padding: 10px;
-			float: left;
 		}
 
 		.row > .col-6 {
@@ -1693,11 +1656,7 @@ input, select, textarea {
 						}
 
 		}
-@@media ghost {
-	.ghost {
-	  visibility: hidden;
-	}
-}
+
 		@media screen and (max-width: 736px) {
 
 			.row {
@@ -2191,7 +2150,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: left;
+		text-align: center;
 	}
 
 	header p {
@@ -3493,7 +3452,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("../../images/Banner.jpg");
+		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
