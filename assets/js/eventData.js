@@ -84,7 +84,7 @@ const eventData = [
       "learnMoreURL": "https://twitter.com/baycscouncil/status/1219462254623485953?cxt=HHwWgsCj_bSds-whAAAA"
     },
     {
-      "imageURL": "./images/banner.jpg",
+      "imageURL": "./images/AP-LOGO.jpg",
       "title": "AP Computer Science Study Sessions - Spring 2020",
       "description": "As COVID-19 stuck across the world, BAYCSC created an AP Computer Science Study Session to help qurantined students continue studying for the AP Exam in May.",
       "learnMoreURL": "https://www.eventbrite.com/o/redwood-city-downtown-library-24700165262"
