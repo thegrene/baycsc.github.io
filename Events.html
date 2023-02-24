@@ -36,45 +36,17 @@
 					<header class="major">
 						<h2>Events</h2>
 					</header>
-					<header class="">
-						<h2>Upcoming</h2>
-					</header>
 					<div class="box alt">
 						<div class="row gtr-uniform">
-							<section class="col-4 col-6-medium col-12-xsmall">
+							<section class="col-3 col-2-medium col-0-xsmall"></section>
+							<section class="col-6 col-8-medium col-12-xsmall">
 								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
+									<a href="#" class="image fit"><img src="images/apcsaHeader.png" alt="Avatar" style="width:100%"/></a>
 								</span>
-								<h3>Ipsum sed commodo</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-							</section>
-							<section class="col-4 col-6-medium col-12-xsmall">
-								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
-								</span>
-								<h3>Eleifend lorem ornare</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-							</section>
-							<section class="col-4 col-6-medium col-12-xsmall">
-								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
-								</span>
-								<h3>Cubilia cep lobortis</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-							</section>
-							<section class="col-4 col-6-medium col-12-xsmall">
-								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
-								</span>
-								<h3>Non semper interdum</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-							</section>
-							<section class="col-4 col-6-medium col-12-xsmall">
-								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
-								</span>
-								<h3>Odio laoreet accumsan</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+								<h3 style="margin-top:40px">Getting ready for the APCSA exam?</h3>
+								<p>BAYCSC is hosting free bi-weely group study sessions from February 22 to April 26!</p>
+								<a class="button" href="#" target="_blank" style="width:60%">Learn More</a>
+								
 							</section>
 						</div>
 					</div>
@@ -86,35 +58,25 @@
 			<section id="four" class="wrapper style1 special fade-up">
 				<div class="container">
 					<header class="">
-						<h2>Past</h2>
+						<h2>Past Events</h2>
 					</header>
-					<div class="box alt">
-						<div class="row gtr-uniform">
-							<section class="col-4 col-6-medium col-12-xsmall">
-								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
-								</span>
-								<h3>Ipsum sed commodo</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-							</section>
-							<section class="col-4 col-6-medium col-12-xsmall">
-								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
-								</span>
-								<h3>Eleifend lorem ornare</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-							</section>
-							<section class="col-4 col-6-medium col-12-xsmall">
-								<span class="solid major">
-									<img src="images/StellaFinal.png" alt="Avatar" style="" />
-								</span>
-								<h3>Cubilia cep lobortis</h3>
-								<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-							</section>
-						</div>
-					</div>
+					<div class="row gtr-150" id="eventsPast"></div>
 				</div>
 			</section>
+
+			<span id="eventTemplate" style="display: none">
+				<div id="eventDiv" class="col-4 col-6-medium col-12-small">
+					<section id="sidebar" class="topBorder"></section>
+					<section id="sidebar">
+						<section>
+							<a href="#" class="image fit"><img alt=""></a>
+							<h3 style="color:#99d2ff"></h3>
+							<p></p>
+							<a class="button" target="_blank" style="width:60%">Learn More</a>
+						</section>
+					</section>
+				</div>
+			</span>
 
 			<!-- Footer -->
 			<footer id="footer">
@@ -140,6 +102,8 @@
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
+			<script src="assets/js/eventData.js"></script>
+			<script src="assets/js/eventRenderer.js"></script>
 			<script src="assets/js/main.js"></script>
 
 	</body>
