@@ -1,17 +1,25 @@
 const eventData = [
+
+    {
+      "imageURL": "./images/codenplay.jpeg",
+      "title": "Code N' Play - Spring",
+      "description": "BAYCSC members facilitated three sessions with educators in CSTA’s first ever Teen Takeover",
+      "learnMoreURL": "https://csteachers.org/events/code-n-play-spring/",
+      // "future": true
+    },
     {
       "imageURL": "./images/BAYCSC_IG_PROMO1.png",
       "title": "CS+Your Future Speaker Series",
       "description": "July 19, 23, 28",
       "learnMoreURL": "https://www.eventbrite.com/e/cs-your-future-tickets-378932034917",
-      "future": true
+      // "future": true
     },
     {
       "imageURL": "./images/ScratchExample.jpg",
       "title": "UCSD Microcredential - 2022",
       "description": "",
-      "learnMoreURL": null,
-      "future": true
+      "learnMoreURL": "https://online.ucsd.edu/courses/CSE+CREATE-CS-001/",
+      // "future": true
     },
     {
       "imageURL": "./images/DayOfAICover.png",
