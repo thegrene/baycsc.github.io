@@ -1,5 +1,11 @@
 const eventData = [
-
+    {
+      "imageURL": "./images/apcsaposter.png",
+      "title": "The BAYCSC APCSA Study Group",
+      "description": "Join our free, inclusive, bi-weekly study group for all things APCSA.",
+      "learnMoreURL": "https://baycsc.org/AP",
+      "future": true
+    },
     {
       "imageURL": "./images/codenplay.jpeg",
       "title": "Code N' Play - Spring",
