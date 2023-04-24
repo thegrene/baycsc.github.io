@@ -1,9 +1,9 @@
 const eventData = [
     {
       "imageURL": "./images/apcsa_speaker_flyer.jpg",
-      "title": "APCSA Study Session with Guest Speaker Shifra Issacs",
+      "title": "APCSA Study Session with Guest Speaker Shifra Isaacs",
       "description": "Get ready for the APCSA exam with an expert guest speaker! Part of our BAYCSC APCSA study group.",
-      "learnMoreURL": "https://www.eventbrite.com/e/apcsa-study-session-with-guest-speaker-shifra-issacs-a-data-scientist-tickets-623402382307",
+      "learnMoreURL": "https://www.eventbrite.com/e/apcsa-study-session-with-data-scientist-shifra-isaacs-tickets-623402382307",
       "future": true
     },
     {
