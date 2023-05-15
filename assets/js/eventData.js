@@ -4,14 +4,14 @@ const eventData = [
       "title": "APCSA Study Session with Guest Speaker Shifra Isaacs",
       "description": "Get ready for the APCSA exam with an expert guest speaker! Part of our BAYCSC APCSA study group.",
       "learnMoreURL": "https://www.eventbrite.com/e/apcsa-study-session-with-data-scientist-shifra-isaacs-tickets-623402382307",
-      "future": true
+      // "future": true
     },
     {
       "imageURL": "./images/apcsaposter.png",
       "title": "The BAYCSC APCSA Study Group",
       "description": "Join our free, inclusive, bi-weekly study group for all things APCSA.",
       "learnMoreURL": "https://baycsc.org/AP",
-      "future": true
+      // "future": true
     },
     {
       "imageURL": "./images/codenplay.jpeg",
