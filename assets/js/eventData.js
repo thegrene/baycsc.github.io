@@ -1,5 +1,12 @@
 const eventData = [
     {
+      "imageURL": "./images/LogoMain.jpg",
+      "title": "Cracking the Code: How CS Works in College",
+      "description": "Learn about how CS works in college from college faculty, recent graduates and current students!",
+      "learnMoreURL": "",
+      // "future": true
+    },
+    {
       "imageURL": "./images/apcsa_speaker_flyer.jpg",
       "title": "APCSA Study Session with Guest Speaker Shifra Isaacs",
       "description": "Get ready for the APCSA exam with an expert guest speaker! Part of our BAYCSC APCSA study group.",
