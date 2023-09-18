@@ -3,7 +3,7 @@ const eventData = [
       "imageURL": "./images/CS In College.png",
       "title": "Cracking the Code: How CS Works in College",
       "description": "Learn about how CS works in college from college faculty, recent graduates and current students!",
-      "learnMoreURL": "",
+      "learnMoreURL": "https://www.eventbrite.com/e/cracking-the-code-how-cs-works-in-college-tickets-714326779627",
       "future": true
     },
     {
