@@ -36,6 +36,7 @@ window.onload = () => {
         let template = document.querySelector('span#eventTemplate div');
         const clone = template.cloneNode(true);
         
+        clone.querySelector('a.image').href = e.learnMoreURL;
         clone.querySelector('a.image img').src = e.imageURL;
         clone.querySelector('h3').innerText = e.title;
         clone.querySelector('p').innerText = e.description;
