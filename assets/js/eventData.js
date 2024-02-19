@@ -4,7 +4,7 @@ const eventData = [
       "title": "Cracking the Code: How CS Works in College",
       "description": "Learn about how CS works in college from college faculty, recent graduates and current students!",
       "learnMoreURL": "https://www.eventbrite.com/e/cracking-the-code-how-cs-works-in-college-tickets-714326779627",
-      "future": true
+      // "future": true
     },
     {
       "imageURL": "./images/apcsa_speaker_flyer.jpg",
