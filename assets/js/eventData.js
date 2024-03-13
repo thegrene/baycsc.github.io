@@ -1,5 +1,12 @@
 const eventData = [
     {
+      "imageURL": "./images/RCPLFlyer.png",
+      "title": "Bring a Book to Life: Hour of Code With Octostudio",
+      "description": "Code an interactive animation using your favorite book on an iPad! Held at the Redwood City Library makerspace.",
+      "learnMoreURL": "https://baycsc.org/Events.html",
+      // "future": true
+    },
+    {
       "imageURL": "./images/CS In College.png",
       "title": "Cracking the Code: How CS Works in College",
       "description": "Learn about how CS works in college from college faculty, recent graduates and current students!",
